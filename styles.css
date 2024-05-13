@@ -1,0 +1,21 @@
+body{
+    height: 100vh;
+}
+
+.app{
+    text-align: center;
+}
+
+.app h1{
+    font-size: 30px;
+}
+
+#btn{
+    padding: 10px 20px;
+    border: none;
+    font-size: 30px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+}
+
